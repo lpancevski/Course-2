@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/callIntent"
+        android:text="Call"
+        android:layout_width="100dip"
+        android:layout_height="50dip"
+        />
+    <Button
+        android:id="@+id/dialIntent"
+        android:text="Dial"
+        android:layout_width="100dip"
+        android:layout_height="50dip"
+        />
+    <Button
+        android:id="@+id/viewIntent"
+        android:text="View"
+        android:layout_width="100dip"
+        android:layout_height="50dip"
+        />
+    <Button
+        android:id="@+id/captureIntent"
+        android:text="Capture"
+        android:layout_width="100dip"
+        android:layout_height="50dip"
+        />
+
+</LinearLayout>

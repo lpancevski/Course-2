@@ -1,0 +1,40 @@
+<resources>
+
+    <!--
+            Base application theme, dependent on API level. This theme is replaced
+            by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+        -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="COLORREDTEXTVIEW">
+        <item name="android:width">200dip</item>
+        <item name="android:height">500dip</item>
+        <item name="android:textSize">25pt</item>
+        <item name="android:textColor">#E870F8</item>
+    </style>
+    <style name="CUSTOMBUTTON">
+        <item name="android:background">@drawable/pressbuttonbg</item>
+    </style>
+    <style name="USERNAMEFIELD">
+        <item name="android:width">200dip</item>
+        <item name="android:height">500dip</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="CUSTOMLISTVIEW">
+        <item name="android:textColor">#ff00ff00</item>
+        <item name="android:cacheColorHint">@color/color_white</item>
+        <item name="android:dividerHeight">2dp</item>
+    </style>
+
+</resources>

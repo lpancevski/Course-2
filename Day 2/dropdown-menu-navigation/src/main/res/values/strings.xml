@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DropdownMenuNavigation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="operating_systems">
+        <item >Android</item>
+        <item >iPhone</item>
+        <item >Windows Mobile</item>
+    </string-array>
+</resources>

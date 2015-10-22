@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">services</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="startService">Start Service</string>
+    <string name="stopService">Stop Service</string>
+    <string name="calculate">Calculate</string>
+</resources>

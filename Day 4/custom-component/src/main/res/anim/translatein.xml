@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Uncomment if you want to mave in X-axis direction -->
+      <translate
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:duration="1000"
+        android:fromXDelta="0%p"
+        android:repeatMode="restart"
+        android:toXDelta="100%p" /> 
+
+    <!-- <rotate
+        android:duration="1000"
+        android:fromDegrees="0"
+        android:toDegrees="180" 
+        android:pivotX="0"
+        android:repeatMode="restart"/> -->
+
+</set>

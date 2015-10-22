@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Course2.iml" filepath="$PROJECT_DIR$/Course2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 10/Day 10_.iml" filepath="$PROJECT_DIR$/Day 10/Day 10_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 1/Day 1_.iml" filepath="$PROJECT_DIR$/Day 1/Day 1_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2/Day 2_.iml" filepath="$PROJECT_DIR$/Day 2/Day 2_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 3/Day 3_.iml" filepath="$PROJECT_DIR$/Day 3/Day 3_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 4/Day 4_.iml" filepath="$PROJECT_DIR$/Day 4/Day 4_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 5/Day 5_.iml" filepath="$PROJECT_DIR$/Day 5/Day 5_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 6/Day 6_.iml" filepath="$PROJECT_DIR$/Day 6/Day 6_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 7/Day 7_.iml" filepath="$PROJECT_DIR$/Day 7/Day 7_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 8/Day 8_.iml" filepath="$PROJECT_DIR$/Day 8/Day 8_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 9/Day 9_.iml" filepath="$PROJECT_DIR$/Day 9/Day 9_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 7/alarm-service/alarm-service.iml" filepath="$PROJECT_DIR$/Day 7/alarm-service/alarm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarm-service/alarm-service.iml" filepath="$PROJECT_DIR$/alarm-service/alarm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 7/async-tasks/async-tasks.iml" filepath="$PROJECT_DIR$/Day 7/async-tasks/async-tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/async-tasks/async-tasks.iml" filepath="$PROJECT_DIR$/async-tasks/async-tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 4/audio-and-video/audio-and-video.iml" filepath="$PROJECT_DIR$/Day 4/audio-and-video/audio-and-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audio-and-video/audio-and-video.iml" filepath="$PROJECT_DIR$/audio-and-video/audio-and-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 8/broadcast-receivers/broadcast-receivers.iml" filepath="$PROJECT_DIR$/Day 8/broadcast-receivers/broadcast-receivers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcast-receivers/broadcast-receivers.iml" filepath="$PROJECT_DIR$/broadcast-receivers/broadcast-receivers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 5/content-provider/content-provider.iml" filepath="$PROJECT_DIR$/Day 5/content-provider/content-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content-provider/content-provider.iml" filepath="$PROJECT_DIR$/content-provider/content-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 4/custom-component/custom-component.iml" filepath="$PROJECT_DIR$/Day 4/custom-component/custom-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-component/custom-component.iml" filepath="$PROJECT_DIR$/custom-component/custom-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 5/database-sqlite/database-sqlite.iml" filepath="$PROJECT_DIR$/Day 5/database-sqlite/database-sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database-sqlite/database-sqlite.iml" filepath="$PROJECT_DIR$/database-sqlite/database-sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2/dropdown-menu-navigation/dropdown-menu-navigation.iml" filepath="$PROJECT_DIR$/Day 2/dropdown-menu-navigation/dropdown-menu-navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dropdown-menu-navigation/dropdown-menu-navigation.iml" filepath="$PROJECT_DIR$/dropdown-menu-navigation/dropdown-menu-navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 1/exercise_day1/exercise_day1.iml" filepath="$PROJECT_DIR$/Day 1/exercise_day1/exercise_day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_day1/exercise_day1.iml" filepath="$PROJECT_DIR$/exercise_day1/exercise_day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 10/exercise_day10/exercise_day10.iml" filepath="$PROJECT_DIR$/Day 10/exercise_day10/exercise_day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_day10/exercise_day10.iml" filepath="$PROJECT_DIR$/exercise_day10/exercise_day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2/exercise_day2/exercise_day2.iml" filepath="$PROJECT_DIR$/Day 2/exercise_day2/exercise_day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_day2/exercise_day2.iml" filepath="$PROJECT_DIR$/exercise_day2/exercise_day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 3/exercise_day3/exercise_day3.iml" filepath="$PROJECT_DIR$/Day 3/exercise_day3/exercise_day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_day3/exercise_day3.iml" filepath="$PROJECT_DIR$/exercise_day3/exercise_day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 4/exercise_day4/exercise_day4.iml" filepath="$PROJECT_DIR$/Day 4/exercise_day4/exercise_day4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_day4/exercise_day4.iml" filepath="$PROJECT_DIR$/exercise_day4/exercise_day4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 5/exercise_day5/exercise_day5.iml" filepath="$PROJECT_DIR$/Day 5/exercise_day5/exercise_day5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_day5/exercise_day5.iml" filepath="$PROJECT_DIR$/exercise_day5/exercise_day5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 6/exercise_day6/exercise_day6.iml" filepath="$PROJECT_DIR$/Day 6/exercise_day6/exercise_day6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_day6/exercise_day6.iml" filepath="$PROJECT_DIR$/exercise_day6/exercise_day6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 7/exercise_day7/exercise_day7.iml" filepath="$PROJECT_DIR$/Day 7/exercise_day7/exercise_day7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_day7/exercise_day7.iml" filepath="$PROJECT_DIR$/exercise_day7/exercise_day7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 8/exercise_day8/exercise_day8.iml" filepath="$PROJECT_DIR$/Day 8/exercise_day8/exercise_day8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_day8/exercise_day8.iml" filepath="$PROJECT_DIR$/exercise_day8/exercise_day8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 9/exercise_day9/exercise_day9.iml" filepath="$PROJECT_DIR$/Day 9/exercise_day9/exercise_day9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_day9/exercise_day9.iml" filepath="$PROJECT_DIR$/exercise_day9/exercise_day9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 1/explicit-intents/explicit-intents.iml" filepath="$PROJECT_DIR$/Day 1/explicit-intents/explicit-intents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/explicit-intents/explicit-intents.iml" filepath="$PROJECT_DIR$/explicit-intents/explicit-intents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 1/fragments/fragments.iml" filepath="$PROJECT_DIR$/Day 1/fragments/fragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragments/fragments.iml" filepath="$PROJECT_DIR$/fragments/fragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 1/implicit-intents/implicit-intents.iml" filepath="$PROJECT_DIR$/Day 1/implicit-intents/implicit-intents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/implicit-intents/implicit-intents.iml" filepath="$PROJECT_DIR$/implicit-intents/implicit-intents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2/navigation-drawer/navigation-drawer.iml" filepath="$PROJECT_DIR$/Day 2/navigation-drawer/navigation-drawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigation-drawer/navigation-drawer.iml" filepath="$PROJECT_DIR$/navigation-drawer/navigation-drawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 7/notifications/notifications.iml" filepath="$PROJECT_DIR$/Day 7/notifications/notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notifications/notifications.iml" filepath="$PROJECT_DIR$/notifications/notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 9/sensors/sensors.iml" filepath="$PROJECT_DIR$/Day 9/sensors/sensors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensors/sensors.iml" filepath="$PROJECT_DIR$/sensors/sensors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 8/services/services.iml" filepath="$PROJECT_DIR$/Day 8/services/services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/services.iml" filepath="$PROJECT_DIR$/services/services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 8/services-and-broadcasereceivers/services-and-broadcasereceivers.iml" filepath="$PROJECT_DIR$/Day 8/services-and-broadcasereceivers/services-and-broadcasereceivers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services-and-broadcasereceivers/services-and-broadcasereceivers.iml" filepath="$PROJECT_DIR$/services-and-broadcasereceivers/services-and-broadcasereceivers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 5/shared-preferences/shared-preferences.iml" filepath="$PROJECT_DIR$/Day 5/shared-preferences/shared-preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared-preferences/shared-preferences.iml" filepath="$PROJECT_DIR$/shared-preferences/shared-preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2/tabs-widget/tabs-widget.iml" filepath="$PROJECT_DIR$/Day 2/tabs-widget/tabs-widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabs-widget/tabs-widget.iml" filepath="$PROJECT_DIR$/tabs-widget/tabs-widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 7/threads/threads.iml" filepath="$PROJECT_DIR$/Day 7/threads/threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threads/threads.iml" filepath="$PROJECT_DIR$/threads/threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 4/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/Day 4/viewpager/viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 9/webservices/webservices.iml" filepath="$PROJECT_DIR$/Day 9/webservices/webservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 9/webservices-volley/webservices-volley.iml" filepath="$PROJECT_DIR$/Day 9/webservices-volley/webservices-volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservices-volley/webservices-volley.iml" filepath="$PROJECT_DIR$/webservices-volley/webservices-volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 4/webview/webview.iml" filepath="$PROJECT_DIR$/Day 4/webview/webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webview/webview.iml" filepath="$PROJECT_DIR$/webview/webview.iml" />
+    </modules>
+  </component>
+</project>

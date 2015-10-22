@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Programs\android-studio\gradle\gradle-2.4" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Day 1" />
+            <option value="$PROJECT_DIR$/Day 1/exercise_day1" />
+            <option value="$PROJECT_DIR$/Day 1/explicit-intents" />
+            <option value="$PROJECT_DIR$/Day 1/fragments" />
+            <option value="$PROJECT_DIR$/Day 1/implicit-intents" />
+            <option value="$PROJECT_DIR$/Day 10" />
+            <option value="$PROJECT_DIR$/Day 10/exercise_day10" />
+            <option value="$PROJECT_DIR$/Day 2" />
+            <option value="$PROJECT_DIR$/Day 2/dropdown-menu-navigation" />
+            <option value="$PROJECT_DIR$/Day 2/exercise_day2" />
+            <option value="$PROJECT_DIR$/Day 2/navigation-drawer" />
+            <option value="$PROJECT_DIR$/Day 2/tabs-widget" />
+            <option value="$PROJECT_DIR$/Day 3" />
+            <option value="$PROJECT_DIR$/Day 3/exercise_day3" />
+            <option value="$PROJECT_DIR$/Day 4" />
+            <option value="$PROJECT_DIR$/Day 4/audio-and-video" />
+            <option value="$PROJECT_DIR$/Day 4/custom-component" />
+            <option value="$PROJECT_DIR$/Day 4/exercise_day4" />
+            <option value="$PROJECT_DIR$/Day 4/viewpager" />
+            <option value="$PROJECT_DIR$/Day 4/webview" />
+            <option value="$PROJECT_DIR$/Day 5" />
+            <option value="$PROJECT_DIR$/Day 5/content-provider" />
+            <option value="$PROJECT_DIR$/Day 5/database-sqlite" />
+            <option value="$PROJECT_DIR$/Day 5/exercise_day5" />
+            <option value="$PROJECT_DIR$/Day 5/shared-preferences" />
+            <option value="$PROJECT_DIR$/Day 6" />
+            <option value="$PROJECT_DIR$/Day 6/exercise_day6" />
+            <option value="$PROJECT_DIR$/Day 7" />
+            <option value="$PROJECT_DIR$/Day 7/alarm-service" />
+            <option value="$PROJECT_DIR$/Day 7/async-tasks" />
+            <option value="$PROJECT_DIR$/Day 7/exercise_day7" />
+            <option value="$PROJECT_DIR$/Day 7/notifications" />
+            <option value="$PROJECT_DIR$/Day 7/threads" />
+            <option value="$PROJECT_DIR$/Day 8" />
+            <option value="$PROJECT_DIR$/Day 8/broadcast-receivers" />
+            <option value="$PROJECT_DIR$/Day 8/exercise_day8" />
+            <option value="$PROJECT_DIR$/Day 8/services" />
+            <option value="$PROJECT_DIR$/Day 8/services-and-broadcasereceivers" />
+            <option value="$PROJECT_DIR$/Day 9" />
+            <option value="$PROJECT_DIR$/Day 9/exercise_day9" />
+            <option value="$PROJECT_DIR$/Day 9/sensors" />
+            <option value="$PROJECT_DIR$/Day 9/webservices" />
+            <option value="$PROJECT_DIR$/Day 9/webservices-volley" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
