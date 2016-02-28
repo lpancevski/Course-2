@@ -125,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
         Fragment fragment = new OpertingSystemFragment();
 
         Bundle args = new Bundle();
-        args.putInt(OpertingSystemFragment.ARG_OS, position);
+        args.putString(OpertingSystemFragment.ARG_OS, mPlanetTitles[position]);
 
         fragment.setArguments(args);
 
