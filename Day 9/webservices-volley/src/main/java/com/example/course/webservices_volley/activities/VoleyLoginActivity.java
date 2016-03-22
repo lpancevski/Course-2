@@ -10,9 +10,9 @@ import android.view.Menu;
 import android.view.View;
 import android.widget.EditText;
 
-import com.example.course.webservices.R;
-import com.example.course.webservices.callers.RequestCaller;
-import com.example.course.webservices.callers.RequestLoginCallback;
+import com.example.course.webservices_volley.R;
+import com.example.course.webservices_volley.callers.RequestCaller;
+import com.example.course.webservices_volley.callers.RequestLoginCallback;
 
 public class VoleyLoginActivity extends Activity implements RequestLoginCallback {
 
