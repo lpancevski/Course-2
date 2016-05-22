@@ -23,12 +23,15 @@ import java.util.Map;
 public class RequestCaller {
 
 	// 10.0.2.2 is IP address if you are working with emulator.
-	private static final String BASE_URI = "http://192.168.0.103/wstest/index.php/";
+	private static final String BASE_URI = "http://192.168.0.102/wstest/index.php/";
 	
 	//If you are trying on device, then BASE_URI should put have local IP address of the machine (ex: 192.168.1.20) 
 //	private static final String BASE_URI = "http://IPAddressOfMachineWherePHPServicesAreHosted/wstest/index.php/";
-	
-	
+
+	//Service on Web
+//	private static final String BASE_URI = "webservicesdemo.net16.net/wstest/index.php/";
+
+
 	private static final String SAVE_PERSON = "contactsservice/createperson";
 	private static final String LIST_ALL_PERSONS = "contactsservice/listallpersons";
 	private static final String LOGIN = "contactsservice/login";
