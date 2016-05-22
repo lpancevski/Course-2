@@ -1,12 +1,11 @@
 package com.example.course.tabs_widget;
 
-import android.app.FragmentTransaction;
+import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.view.Menu;
-import android.view.MenuItem;
+
 
 public class MainActivity extends AppCompatActivity implements ActionBar.TabListener {
 
@@ -77,32 +76,4 @@ public class MainActivity extends AppCompatActivity implements ActionBar.TabList
     public void onTabReselected(ActionBar.Tab tab, android.support.v4.app.FragmentTransaction ft) {
 
     }
-
-    /*@Override
-    public void onTabSelected(ActionBar.Tab tab, FragmentTransaction fragmentTransaction) {
-            // When the given tab is selected, show the tab contents in the
-            // container view.
-            Fragment fragment = new TabSectionFragment();
-            Bundle args = new Bundle();
-            args.putInt(TabSectionFragment.ARG_SECTION_NUMBER,
-                    tab.getPosition() + 1);
-            fragment.setArguments(args);
-
-            FragmentTransaction transaction = getFragmentManager().beginTransaction();
-            transaction.replace(R.id.container, fragment);
-
-            transaction.commit();
-
-            transaction.replace(R.id.container, fragment);
-    }
-
-    @Override
-    public void onTabUnselected(ActionBar.Tab tab, FragmentTransaction ft) {
-
-    }
-
-    @Override
-    public void onTabReselected(ActionBar.Tab tab, FragmentTransaction ft) {
-
-    }*/
 }
