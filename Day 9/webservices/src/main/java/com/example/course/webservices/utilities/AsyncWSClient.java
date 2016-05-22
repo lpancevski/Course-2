@@ -30,16 +30,12 @@ import com.example.course.webservices.entity.ContactDetails;
 
 public class AsyncWSClient {
 	
-	//private WSClient(){}
-	
 	private static final String HTTP_PROTOCOL = "http";
-	private static final String BASE_URI = "10.0.2.2/wstest/index.php/";
-	private static final String SAVE_CONTACT = "contactsservice/createcontact";
+	private static final String BASE_URI = "192.168.0.102/wstest/index.php/";
+
+	//Service on Web
+//	private static final String BASE_URI = "webservicesdemo.net16.net/wstest/index.php/";
 	private static final String SAVE_PERSON = "contactsservice/createperson";
-	private static final String G_SAVE_CONTACT = "contactsservice/gcreatecontact";
-	private static final String LIST_CONTACT = "contactsservice/listall";
-	private static final String G_LIST_CONTACT = "contactsservice/glistall";
-	
 	private static final String G_LIST_PERSONS = "contactsservice/listallpersons";
 	
 	private static AsyncWSClient wsClient = null;
@@ -77,7 +73,7 @@ public class AsyncWSClient {
 	}
 	
 	public List<ContactDetails> listAllContactsByUser(String userEmail)
-			throws ClientProtocolException, IOException {
+			throws IOException {
 		List<ContactDetails> contactDetailsList = null;
 		
 		List<NameValuePair> listParams = new ArrayList<NameValuePair>();
